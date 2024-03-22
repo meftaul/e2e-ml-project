@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlflow
+dtale
+ydata-profiling
