@@ -7,3 +7,4 @@ scikit-learn
 mlflow
 dtale
 ydata-profiling
+streamlit
