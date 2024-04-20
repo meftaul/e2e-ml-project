@@ -140,3 +140,6 @@ ui-tests/.pnp.*
 models/
 app/models/
 /datasets
+
+experiments/mlruns/*
+experiments/mlartifacts/*
