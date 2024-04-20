@@ -1,0 +1,4 @@
+[core]
+    remote = google-drive-ds
+['remote "google-drive-ds"']
+    url = gdrive://1gZ13OmURsQcZT3ep7ReAATpnj57llFYE
