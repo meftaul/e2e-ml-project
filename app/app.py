@@ -29,9 +29,6 @@ data = {
 
 features = pd.DataFrame(data, index=[0])
 
-# st.header('User Input parameters')
-# st.write(data)
-
 st.write(features)
 
 model = joblib.load('random_forest_model.pkl')
