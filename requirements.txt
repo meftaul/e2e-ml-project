@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+ydata-profiling
+dtale
+streamlit
