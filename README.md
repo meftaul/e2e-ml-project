@@ -50,3 +50,8 @@ touch .gitignore
 git add .
 git commit -m "Initial commit"
 ```
+
+**Install the packages**
+```bash
+pip install -r requirements.txt
+```
