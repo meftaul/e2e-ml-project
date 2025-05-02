@@ -32,3 +32,21 @@ pip --version
 pip install jupyter
 # jupyter notebook
 ```
+
+**`git` Setup**
+```bash
+git init
+# git config --global user.name "Your Name"
+# git config --global user.email "your@email"
+``` 
+
+**Create a `.gitignore` file**
+```bash
+touch .gitignore
+```
+
+**First Commit**
+```bash
+git add .
+git commit -m "Initial commit"
+```
