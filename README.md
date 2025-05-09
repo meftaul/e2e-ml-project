@@ -55,3 +55,8 @@ git commit -m "Initial commit"
 ```bash
 pip install -r requirements.txt
 ```
+
+```bash
+docker pull meftaul/housing-app-07:v1
+docker run -p 8080:8080 meftaul/housing-app-07:v1
+```
